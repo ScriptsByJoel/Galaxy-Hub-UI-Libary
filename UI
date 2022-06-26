@@ -435,7 +435,7 @@ function LibraryV2.UI(Name)
     end)
 
     Widgets.Discord.TextButton.MouseButton1Click:Connect(function()
-        setclipboard("This is for aesthetic though i may update it so you can plug your discord here.")
+        setclipboard("https://discord.gg/gkFeUYuuK6.")
     end)
 
     game:GetService("UserInputService").InputBegan:Connect(function(Key, IsTyping)
